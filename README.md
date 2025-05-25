@@ -1,7 +1,7 @@
 <div align="center">
 <h2>GraphNER : Graph Neural Network and NER-Based Text Summarization 🧠📜</h2>
 
-[**Imaad Zaffar Khan**](https://github.com/imaad786)<sup>1</sup> · [**Amaan Aijaz Sheikh**](https://github.com/AmaanAijaz)<sup>1</sup> 
+[**Imaad Zaffar Khan**](https://github.com/imaad786)<sup>1</sup> · [**Amaan Aijaz Sheikh**](https://github.com/AmaanAijaz)<sup>1</sup> · [**Utkarsh Sinha**](https://github.com/us8329)<sup>1</sup> 
 
 <sup>1</sup>University of Illinois at Urbana-Champaign
 
